@@ -1,3 +1,4 @@
+# FUCK YOU, RIAA
 [![Build Status](https://travis-ci.org/l1ving/youtube-dl.svg?branch=master)](https://travis-ci.org/l1ving/youtube-dl)
 
 youtube-dl - download videos from youtube.com or other video platforms
